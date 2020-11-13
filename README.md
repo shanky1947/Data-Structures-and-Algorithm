@@ -1,2 +1,2 @@
-# College-Portal
-Full stack web application with pages of downloading assignment, uploading assignment, checking plagarism, adding information and login authentication etc.
+# Data Structures and Algorithm
+Contains solutions of questions from Coding Ninja course, can be used to brush-up basic data structures skills.
